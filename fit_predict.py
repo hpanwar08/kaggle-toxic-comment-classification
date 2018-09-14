@@ -266,7 +266,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# from fastai.conv_learner import ConvLearner
-# from torchvision import models
-# models.inception_v3()
